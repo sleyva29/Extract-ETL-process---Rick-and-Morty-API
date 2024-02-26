@@ -3,5 +3,5 @@ https://www.youtube.com/watch?v=2POwK7kP0e4
 The task is to extract data from an HTML.
 
    <p align="left">
-   <img src="ETL_RM_api\rick_morty.png">
+   <img src="rick_morty.png">
    </p>
